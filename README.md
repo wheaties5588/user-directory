@@ -1,6 +1,6 @@
 # User Directory
 
-​![Product Logo](./images/table-ss.png)
+​![Product Logo](./images/table-ss.PNG)
 #### Created On: 10/6/2020  
 
 ![](https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square)  
